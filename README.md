@@ -7,3 +7,4 @@
 * [フロントエンドコード](https://github.com/xxai-art/web)
 * [サイト全体の言語パック](https://github.com/xxai-art/web/tree/main/i18n)
 * [ログインモジュールの言語パック](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Web サイトの多言語ドキュメント](https://github.com/xxai-doc)
