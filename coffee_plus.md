@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) 、 Coffeescript 構文に基づいていくつかの機能を追加します。 [Coffee_plus](./coffee_plus.md)を参照してください。
 
-* 変数を宣言する
+## 変数を宣言する
 
 ```
 + var1, var2
 ```
 
-* 宣言ラベル
+## 宣言ラベル
 
 `:$`は[svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive)で使用します。
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* クイックインポート
+## クイックインポート
 
 ```
 > zx/globals:
